@@ -1,0 +1,19 @@
+{
+  "name": "bifid_cipher",
+  "version": "1.0.0",
+  "description": "Bifid Cipher",
+  "main": "index.js",
+  "scripts": {
+    "test": "node testrunner.js"
+  },
+  "keywords": [
+    "bifid",
+    "cipher"
+  ],
+  "author": "Josh",
+  "license": "MIT",
+  "devDependencies": {
+    "jasmine": "^2.8.0",
+    "jasmine-suite-reporter": "^1.0.7"
+  }
+}
